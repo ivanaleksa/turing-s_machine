@@ -1,0 +1,13 @@
+2
+e1
+1e11e1
+e,q0 - 1Rq2
+1,q0 - 1Rq0
+e,q2 - eRq3
+1,q2 - 1Rq2
+e,q3 - eLq4
+1,q3 - eRq3
+e,q4 - eLq4
+1,q4 - eLq5
+e,q5 - eHq1
+1,q5 - eHq1

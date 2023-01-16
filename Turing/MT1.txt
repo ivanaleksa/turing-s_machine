@@ -1,0 +1,24 @@
+3
+eab
+aba
+e,q0 - eLq2
+a,q0 - aRq0
+b,q0 - bRq0
+e,q2 - eHq1
+a,q2 - aLq3
+b,q2 - bLq3
+e,q3 - eHq1
+a,q3 - aRq4
+b,q3 - bRq5
+e,q4 - eRq6
+a,q4 - aRq4
+b,q4 - bRq4
+e,q5 - eRq7
+a,q5 - aRq5
+b,q5 - bRq5
+e,q6 - aLq8
+e,q7 - bLq8
+e,q8 - eLq9
+e,q9 - eRq1
+a,q9 - aLq9
+b,q9 - bLq9

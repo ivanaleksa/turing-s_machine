@@ -1,0 +1,15 @@
+2
+a1
+11a111a1111a1111
+a,q0 - aRq2
+1,q0 - aRq0
+a,q2 - aRq3
+1,q2 - aRq2
+a,q3 - aRq4
+1,q3 - 1Rq3
+a,q4 - aLq5
+1,q4 - aRq4
+a,q5 - aLq5
+1,q5 - aLq6
+a,q6 - 1Hq1
+1,q6 - 1Lq6
